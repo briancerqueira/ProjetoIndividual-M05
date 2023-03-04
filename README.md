@@ -8,6 +8,7 @@
 - Baixe o Node na sua máquina
 - Baixe os arquivos deste repositório
 - Abra o terminal e se dirija-se até o meu arquivo
+- Faça o comando npm install para instalar as dependencias
 - node (nome da pasta).
 
 ## Usando no TERMINAL /
