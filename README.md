@@ -7,7 +7,7 @@
 
 - Baixe o Node na sua máquina
 - Baixe os arquivos deste repositório
-- Abra o terminal e se dirija até o meu arquivo
+- Abra o terminal e se dirija-se até o meu arquivo
 - node (nome da pasta).
 
 ## Usando no TERMINAL /
